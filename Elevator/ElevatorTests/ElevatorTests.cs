@@ -6,7 +6,7 @@ using Elevator;
 public sealed class ElevatorTests
 {
     [TestMethod]
-    public void TestMethod1()
+    public void TestElevator()
     {
     }
 }
